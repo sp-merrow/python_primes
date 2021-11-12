@@ -7,4 +7,14 @@ Just wrote this for a bit of Python practice, but hopefully this could be of use
 To run it, open a terminal in the folder the script is saved in, and enter the command:
 "python primes.py"
 
+This script will also ask if you'd like to write out a logfile at the end.
+Said logfile includes information such as:
+	-When the script was ran
+	-What mode the script was ran in
+	-How many prime numbers were found
+	-How long it took to find all requested primes
+	-A dump of which prime numbers were found
+
+The logfile will be saved in the same folder as the script and will be named "log.txt"
+
 Thanks for checking out my code!
